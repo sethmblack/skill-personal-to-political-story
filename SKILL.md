@@ -3,7 +3,7 @@ name: personal-to-political-story
 description: Transform abstract policy or systemic issues into emotionally resonant narratives by starting with specific personal experience and zooming out to reveal broader patterns.
 license: MIT
 metadata:
-  version: 1.0.4669
+  version: 1.0.4670
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
